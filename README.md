@@ -1,6 +1,13 @@
-# Smart_Cradle_FYP
-The Smart Baby Cradle is a baby care system based on the Internet of Things (IoT). It is designed to monitor several vital factors automatically, including cradle movement, buzzer alerts, automatic control of DC fan, and room temperature and humidity levels.
-Project aimed to providing a convenient and efficient solution for monitoring and taking care of infants. The system incorporates various sensors, microcontrollers, and communication modules to ensure the safety and well-being of the baby. The key components used in the project include a rain sensor, buzzer alarm, Arduino UNO R3, mic sensor (LM-393), mini fan, mini servo motor, breadboard, jumper wires, baby cradle, temperature and humidity sensors (DHT-11 and LM-35), LED light, and an ESP8266/USB serial module.
-The primary features of the system include detecting the baby's cry and initiating the swinging motion of the cradle while simultaneously sending a notification to the caregiver through the Blynk app. The system also incorporates a rain sensor to detect urine, triggering an alarm buzzer for 10 seconds and sending a notification to the caregiver via the Blynk app. Additionally, the fan automatically turns off when the room temperature falls below 25 degrees Celsius and turns on when it exceeds 25 degrees Celsius. The temperature readings are displayed on the serial monitor of the Arduino IDE.
-The accompanying mobile application offers several features, including displaying the humidity and temperature readings, controlling the LED light with an on/off switch, and sending two types of notifications: one for the baby's cry detection and the other for the detection of urine.
-The successful implementation of the "Smart Baby Cradle and Monitoring System" demonstrates its potential to enhance the safety and convenience of caring for infants. By utilizing various sensors and microcontrollers, the system ensures timely response and continuous monitoring, giving caregivers peace of mind and improving the overall well-being of the baby.	
+An IoT-based baby care system designed to automate monitoring and ensure the safety and well-being of infants. This project provides a convenient and efficient solution for baby care, utilizing a range of sensors, microcontrollers, and communication modules.
+
+🔑 Key Features:
+🛏️ Cradle Movement & Cry Detection: Automatically swings the cradle and alerts caregivers via the Blynk app when the baby cries.
+🚨 Urine Detection: Rain sensor triggers a 10-second buzzer alarm and notifies caregivers if moisture is detected.
+🌡️ Temperature Control: Automatically controls a fan based on room temperature, turning it on above 25°C and off below 25°C.
+📲 Mobile App Integration: Displays temperature and humidity readings, controls LED lights, and sends notifications for cry and urine detection.
+🔧 Components Used:
+📡 Sensors: Rain Sensor, Temperature & Humidity Sensors (DHT-11, LM-35), Mic Sensor (LM-393)
+🖥️ Microcontroller: Arduino UNO R3
+📦 Others: Buzzer, Mini Fan, Servo Motor, ESP8266/USB Serial Module, Breadboard, Jumper Wires, LED Light, Baby Cradle
+📌 Conclusion:
+The Smart Baby Cradle and Monitoring System enhances infant care by providing timely responses and continuous monitoring. With its reliable sensor network and user-friendly mobile interface, this system offers peace of mind to caregivers and ensures the well-being of the baby.
