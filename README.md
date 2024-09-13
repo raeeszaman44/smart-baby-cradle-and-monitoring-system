@@ -1,6 +1,7 @@
-An IoT-based baby care system designed to automate monitoring and ensure the safety and well-being of infants. This project provides a convenient and efficient solution for baby care, utilizing a range of sensors, microcontrollers, and communication modules.
+An IoT-based baby care system designed to automate monitoring and ensure the safety and well-being of infants.
+This project provides a convenient and efficient solution for baby care, utilizing a range of sensors, microcontrollers, and communication modules.
 
-🔑 Key Features:
+🔑** Key Features:**
 🛏️ Cradle Movement & Cry Detection: Automatically swings the cradle and alerts caregivers via the Blynk app when the baby cries.
 🚨 Urine Detection: Rain sensor triggers a 10-second buzzer alarm and notifies caregivers if moisture is detected.
 🌡️ Temperature Control: Automatically controls a fan based on room temperature, turning it on above 25°C and off below 25°C.
