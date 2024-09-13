@@ -1,40 +1,48 @@
-An IoT-based baby care system designed to automate monitoring and ensure the safety and well-being of infants.
-This project provides a convenient and efficient solution for baby care, utilizing a range of sensors, microcontrollers, and communication modules.
+👶 Smart Baby Cradle and Monitoring System
 
-🔑 Key Features:
+An IoT-based baby care system designed to automate monitoring and ensure the safety and well-being of infants. This project provides a convenient and efficient solution for baby care, utilizing a range of sensors, microcontrollers, and communication modules.
 
-🛏️ Cradle Movement & Cry Detection:
+🔑 Key Features
 
-Automatically swings the cradle and alerts caregivers via the Blynk app when the baby cries.
+🛏️ Cradle Movement & Cry Detection
 
-🚨 Urine Detection: 
+- Automatically swings the cradle and alerts caregivers via the Blynk app when the baby cries.
 
-Rain sensor triggers a 10-second buzzer alarm and notifies caregivers if moisture is detected.
+🚨 Urine Detection
 
+- Rain sensor triggers a 10-second buzzer alarm and notifies caregivers if moisture is detected.
 
-🌡️ Temperature Control:
+🌡️ Temperature Control
 
-Automatically controls a fan based on room temperature, turning it on above 25°C and off below 25°C.
+- Automatically controls a fan based on room temperature, turning it on above 25°C and off below 25°C.
 
-📲 Mobile App Integration:
+📲 Mobile App Integration
 
-Displays temperature and humidity readings, controls LED lights, and sends notifications for cry and urine detection.
+- Displays temperature and humidity readings, controls LED lights, and sends notifications for cry and urine detection.
 
-🔧 Components Used:
+🔧 Components Used
 
-📡 Sensors: 
+📡 Sensors
 
-Rain Sensor, Temperature & Humidity Sensors (DHT-11, LM-35), Mic Sensor (LM-393)
+- Rain Sensor
+- Temperature & Humidity Sensors (DHT-11, LM-35)
+- Mic Sensor (LM-393)
 
-🖥️ Microcontroller:
+🖥️ Microcontroller
 
-Arduino UNO R3
+- Arduino UNO R3
 
-📦 Others: 
+📦 Others
 
-Buzzer, Mini Fan, Servo Motor, ESP8266/USB Serial Module, Breadboard, Jumper Wires, LED Light, Baby Cradle
+- Buzzer
+- Mini Fan
+- Servo Motor
+- ESP8266/USB Serial Module
+- Breadboard
+- Jumper Wires
+- LED Light
+- Baby Cradle
 
-📌 Conclusion:
+ 📌Conclusion
 
-The Smart Baby Cradle and Monitoring System enhances infant care by providing timely responses and continuous monitoring.
-With its reliable sensor network and user-friendly mobile interface, this system offers peace of mind to caregivers and ensures the well-being of the baby.
+The Smart Baby Cradle and Monitoring System enhances infant care by providing timely responses and continuous monitoring. With its reliable sensor network and user-friendly mobile interface, this system offers peace of mind to caregivers and ensures the well-being of the baby.
