@@ -1,4 +1,4 @@
-<img align="right" alt="mern coding HQ." width="300" src="https://cdn.dribbble.com/users/2243198/screenshots/5791691/anim-5-800.gif">
+<img align="right" alt="mern coding HQ." width="300" src="https://github.com/raeeszaman44/smart-baby-cradle-and-monitoring-system/blob/main/Smart%20Baby%20cradle%20and%20monitoring%20system%20Poster.png">
 👶 Smart Baby Cradle and Monitoring System
 
 An IoT-based baby care system designed to automate monitoring and ensure the safety and well-being of infants. This project provides a convenient and efficient solution for baby care, utilizing a range of sensors, microcontrollers, and communication modules.
